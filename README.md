@@ -1,7 +1,7 @@
 # C2 Matrix
 
 
-![](./c2_test.png)
+![](./images/c2_test.png)
 
 
 **- 参考 -**
